@@ -1,2 +1,2 @@
 # Java-Projects
-My practice assignments in Java.
+My assignments in Java.
